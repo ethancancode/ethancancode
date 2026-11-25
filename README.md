@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethancancode&label=Profile%20views&color=0e75b6&style=flat" alt="ethancancode" /> </p>
 
-- 🔭 I’m currently working on **I’m currently building full-stack web applications**
+- 🔭 **I’m currently a Software Engineer intern at Testlify**
 
-- 🌱 I’m currently learning **I’m currently learning Django, and Data Structures & Algorithms**
+- 🌱 **I’m currently learning Next.js, System Design, Data Structures & Algorithms**
 
-- 👯 I’m looking to collaborate on **I’m open to collaborating on web development projects**
+- 👯 **I’m open to collaborating on Product/Service based Projects**
 
-- 🤝 I’m looking for help with **I’m looking to improve my backend skills and problem-solving**
+- 🤝 **I’m looking to improve my backend skills and problem-solving**
 
 - 👨‍💻 All of my projects are available at [ethanrodrigues.dev](ethanrodrigues.dev)
 
-- 💬 Ask me about **Ask me about web development and my projects**
+- 💬 **Ask me about web development and my projects**
 
 - 📫 How to reach me **ethan.rodrics@gmail.com**
 
